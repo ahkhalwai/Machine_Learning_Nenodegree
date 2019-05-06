@@ -4,10 +4,6 @@ Machine learning represents a key evolution in the fields of computer science, d
 
 This program will teach you how to become a machine learning engineer, and apply predictive models to massive data sets in fields like finance, healthcare, education, and more.
 
-## Co-Created by:
-
-Kaggle
-
 ## Projects
 
 ## Predicting Boston Housing Prices
